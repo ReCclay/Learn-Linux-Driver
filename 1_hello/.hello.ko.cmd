@@ -1,0 +1,1 @@
+cmd_/home/clay/linux/CLAY-Driver-Demo/1_hello/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/clay/linux/CLAY-Driver-Demo/1_hello/hello.ko /home/clay/linux/CLAY-Driver-Demo/1_hello/hello.o /home/clay/linux/CLAY-Driver-Demo/1_hello/hello.mod.o
