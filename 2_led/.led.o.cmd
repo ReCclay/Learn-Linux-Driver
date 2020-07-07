@@ -1,0 +1,1 @@
+cmd_/home/clay/linux/CLAY-Driver-Demo/2_led/led.o := arm-linux-gnueabihf-ld -EL    -r -o /home/clay/linux/CLAY-Driver-Demo/2_led/led.o /home/clay/linux/CLAY-Driver-Demo/2_led/leddrv.o /home/clay/linux/CLAY-Driver-Demo/2_led/board_ATK.o 

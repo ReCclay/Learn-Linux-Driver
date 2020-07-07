@@ -1,0 +1,1 @@
+cmd_/home/clay/linux/CLAY-Driver-Demo/2_led/led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/clay/linux/CLAY-Driver-Demo/2_led/led.ko /home/clay/linux/CLAY-Driver-Demo/2_led/led.o /home/clay/linux/CLAY-Driver-Demo/2_led/led.mod.o
